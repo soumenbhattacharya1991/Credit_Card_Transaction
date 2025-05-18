@@ -22,4 +22,4 @@ Credit-Card-Transaction
 9)Fastest to 500 Transactions Determine which city reached 500 transactions in the shortest number of days from its first transaction.
 
 🛠 Technologies Used SQL (MySQL or compatible dialect)
-![image alt]()
+![image alt](https://github.com/soumenbhattacharya1991/Credit_Card_Transaction/blob/702f891a4c595735a569b196154262f999c60404/Credit-Card-Transaction%20image.jpg)
