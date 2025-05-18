@@ -1,15 +1,4 @@
 -- SQL porfolio project.
--- download credit card transactions dataset from below link :
--- https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
--- import the dataset in sql server with table name : credit_card_transcations
--- change the column names to lower case before importing data to sql server.Also replace space within column names with underscore.
--- (alternatively you can use the dataset present in zip file)
--- while importing make sure to change the data types of columns. by defualt it shows everything as varchar.
-
--- write 4-6 queries to explore the dataset and put your findings 
-
--- solve below questions
-
 -- 1- write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends 
 
 SELECT 
@@ -157,6 +146,3 @@ GROUP BY city
 HAVING COUNT(1)=2
 ORDER BY datediff1
 LIMIT 1; 
--- once you are done with this create a github repo to put that link in your resume. Some example github links:
--- https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects/tree/master/Advanced%20SQL%20for%20Application%20Development
--- https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql
