@@ -2,6 +2,7 @@ Credit-Card-Transaction
 📊 Credit Card Transactions SQL Analysis This project contains a series of SQL queries written to analyze and extract insights from a dataset of credit card transactions. The queries address various business problems related to spending behavior, card usage patterns, and customer demographics.
 
 📌 Key Queries Included
+
 1)Top 5 Spending Cities Identify the top 5 cities by total spend and their percentage contribution to the overall spends.
 
 2)Peak Spending Month Per Year For each card type, find the month with the highest spend per year.
